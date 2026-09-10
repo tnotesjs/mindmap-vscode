@@ -1,3 +1,7 @@
+> ⚠️ **本仓库已迁移并归档**：代码已合并进 monorepo [tnotesjs/tnotesjs](https://github.com/tnotesjs/tnotesjs) 的 [`apps/mindmap-vscode`](https://github.com/tnotesjs/tnotesjs/tree/main/apps/mindmap-vscode)。后续开发、issues、发布（npm / Releases / Marketplace）均在新仓进行。本仓库仅供查阅历史。
+
+---
+
 # TNotes Mindmap for VSCode
 
 在 VSCode 中使用大纲、思维导图和源码三种方式编辑 `*.tn-mindmap.md`。Markdown 是唯一持久化数据源，文件仍可由 Git、其它编辑器和 `@tnotesjs/mindmap-core` 直接消费。
